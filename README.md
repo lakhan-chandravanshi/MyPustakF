@@ -1,1 +1,2 @@
 # MyPustakF
+npm i
